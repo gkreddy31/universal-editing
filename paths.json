@@ -6,6 +6,6 @@
   ],
   "includes": [
     "/content/aem-boilerplate/",
-    "/content/universal-editing"
+    "/content/aem-edge-deliveryuniversalediting/"
   ]
 }
